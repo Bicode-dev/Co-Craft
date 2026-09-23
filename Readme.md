@@ -9,6 +9,30 @@ et vous laisse jouer.
 
 ---
 
+## Aperçu
+
+<img src="images/01-accueil.png" width="820" alt="Accueil : vos instances Minecraft Java en cartes, et le bandeau qui propose de jouer à plusieurs dès que deux manettes sont branchées.">
+
+*Accueil : vos instances Minecraft Java en cartes, et le bandeau qui propose de jouer à plusieurs dès que deux manettes sont branchées.*
+
+<img src="images/02-versions-java.png" width="820" alt="Nouvelle instance, étape « Version » : toutes les versions de Minecraft Java, de la plus récente à la plus ancienne.">
+
+*Nouvelle instance, étape « Version » : toutes les versions de Minecraft Java, de la plus récente à la plus ancienne.*
+
+<img src="images/03-bedrock.png" width="820" alt="Onglet Bedrock : Minecraft pour Windows, avec son temps de jeu, ses mondes, et l'installation d'une version depuis le Store.">
+
+*Onglet Bedrock : Minecraft pour Windows, avec son temps de jeu, ses mondes, et l'installation d'une version depuis le Store.*
+
+<img src="images/04-multijoueur-local.png" width="820" alt="Multijoueur local : une fenêtre par joueur et une manette chacun ; Co-Craft dit quels mods sont déjà là et ne pose rien sans votre accord.">
+
+*Multijoueur local : une fenêtre par joueur et une manette chacun ; Co-Craft dit quels mods sont déjà là et ne pose rien sans votre accord.*
+
+<img src="images/05-reglages-manettes.png" width="820" alt="Réglages « Manettes & Bedrock » : détection des manettes, écran partagé ou un écran par joueur, et options de Bedrock.">
+
+*Réglages « Manettes & Bedrock » : détection des manettes, écran partagé ou un écran par joueur, et options de Bedrock.*
+
+---
+
 ## Télécharger
 
 Prenez le fichier qui correspond à votre système dans la
