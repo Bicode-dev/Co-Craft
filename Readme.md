@@ -11,9 +11,9 @@ et vous laisse jouer.
 
 ## Aperçu
 
-<img src="images/01-accueil.png" width="820" alt="Accueil : vos instances Minecraft Java en cartes, et le bandeau qui propose de jouer à plusieurs dès que deux manettes sont branchées.">
+<img src="images/01-accueil.png" width="820" alt="Accueil : la dernière instance jouée en grand bandeau « Reprendre », les autres en cartes, et le bandeau qui propose de jouer à plusieurs dès que deux manettes sont branchées.">
 
-*Accueil : vos instances Minecraft Java en cartes, et le bandeau qui propose de jouer à plusieurs dès que deux manettes sont branchées.*
+*Accueil : la dernière instance jouée en grand bandeau « Reprendre », les autres en cartes, et le bandeau qui propose de jouer à plusieurs dès que deux manettes sont branchées.*
 
 <img src="images/02-versions-java.png" width="820" alt="Nouvelle instance, étape « Version » : toutes les versions de Minecraft Java, de la plus récente à la plus ancienne.">
 
@@ -23,9 +23,17 @@ et vous laisse jouer.
 
 *Onglet Bedrock : Minecraft pour Windows, avec son temps de jeu, ses mondes, et l'installation d'une version depuis le Store.*
 
-<img src="images/04-multijoueur-local.png" width="820" alt="Multijoueur local : une fenêtre par joueur et une manette chacun ; Co-Craft dit quels mods sont déjà là et ne pose rien sans votre accord.">
+<img src="images/04-multijoueur-local.png" width="820" alt="Multijoueur local, la partie : l'instance, l'écran partagé ou un écran par joueur, et les mods proposés — Co-Craft dit ce qui est déjà là et ne pose rien sans votre accord.">
 
-*Multijoueur local : une fenêtre par joueur et une manette chacun ; Co-Craft dit quels mods sont déjà là et ne pose rien sans votre accord.*
+*Multijoueur local, la partie : l'instance, l'écran partagé ou un écran par joueur, et les mods proposés — Co-Craft dit ce qui est déjà là et ne pose rien sans votre accord.*
+
+<img src="images/04a-multijoueur-manettes.png" width="820" alt="Multijoueur local, comme sur une console : chaque joueur appuie sur L + R pour prendre sa place, avec sa couleur et ses voyants.">
+
+*Multijoueur local, comme sur une console : chaque joueur appuie sur L + R pour prendre sa place, avec sa couleur et ses voyants.*
+
+<img src="images/04b-multijoueur-joueurs.png" width="820" alt="Multijoueur local, « Qui joue ? » : chaque joueur choisit son profil.">
+
+*Multijoueur local, « Qui joue ? » : chaque joueur choisit son profil.*
 
 <img src="images/05-reglages-manettes.png" width="820" alt="Réglages « Manettes & Bedrock » : détection des manettes, écran partagé ou un écran par joueur, et options de Bedrock.">
 
