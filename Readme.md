@@ -23,9 +23,9 @@ et vous laisse jouer.
 
 *Onglet Bedrock : Minecraft pour Windows, avec son temps de jeu, ses mondes, et l'installation d'une version depuis le Store.*
 
-<img src="images/04-multijoueur-local.png" width="820" alt="Multijoueur local, la partie : l'instance, l'écran partagé ou un écran par joueur, et les mods proposés — Co-Craft dit ce qui est déjà là et ne pose rien sans votre accord.">
+<img src="images/04-multijoueur-local.png" width="820" alt="Multijoueur local, la partie : l'écran partagé ou un écran par joueur, des fenêtres sans bordure qui passent par-dessus la barre des tâches, et les mods proposés — Co-Craft dit ce qui est déjà là et ne pose rien sans votre accord.">
 
-*Multijoueur local, la partie : l'instance, l'écran partagé ou un écran par joueur, et les mods proposés — Co-Craft dit ce qui est déjà là et ne pose rien sans votre accord.*
+*Multijoueur local, la partie : l'écran partagé ou un écran par joueur, des fenêtres sans bordure qui passent par-dessus la barre des tâches, et les mods proposés — Co-Craft dit ce qui est déjà là et ne pose rien sans votre accord.*
 
 <img src="images/04a-multijoueur-manettes.png" width="820" alt="Multijoueur local, comme sur une console : chaque joueur appuie sur L + R pour prendre sa place, avec sa couleur et ses voyants.">
 
