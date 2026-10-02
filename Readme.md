@@ -35,6 +35,10 @@ et vous laisse jouer.
 
 *Multijoueur local, « Qui joue ? » : chaque joueur choisit son profil.*
 
+<img src="images/04c-multijoueur-fenetres.png" width="820" alt="Multijoueur local, « Qui joue où ? » : l'écran tel qu'il sera, et chaque joueur choisit sa fenêtre en poussant sa manette vers elle, comme sur une console.">
+
+*Multijoueur local, « Qui joue où ? » : l'écran tel qu'il sera, et chaque joueur choisit sa fenêtre en poussant sa manette vers elle, comme sur une console.*
+
 <img src="images/05-reglages-manettes.png" width="820" alt="Réglages « Manettes & Bedrock » : détection des manettes, écran partagé ou un écran par joueur, et options de Bedrock.">
 
 *Réglages « Manettes & Bedrock » : détection des manettes, écran partagé ou un écran par joueur, et options de Bedrock.*
