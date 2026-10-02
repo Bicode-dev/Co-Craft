@@ -11,9 +11,9 @@ et vous laisse jouer.
 
 ## Aperçu
 
-<img src="images/01-accueil.png" width="820" alt="Accueil : la dernière instance jouée en grand bandeau « Reprendre », les autres en cartes, et le bandeau qui propose de jouer à plusieurs dès que deux manettes sont branchées.">
+<img src="images/01-accueil.png" width="820" alt="Accueil : la dernière instance jouée en grand bandeau « Reprendre », les autres en cartes — une instance qu'on vient de créer en tête, marquée « NEW » —, et le bandeau qui propose de jouer à plusieurs dès que deux manettes sont branchées.">
 
-*Accueil : la dernière instance jouée en grand bandeau « Reprendre », les autres en cartes, et le bandeau qui propose de jouer à plusieurs dès que deux manettes sont branchées.*
+*Accueil : la dernière instance jouée en grand bandeau « Reprendre », les autres en cartes — une instance qu'on vient de créer en tête, marquée « NEW » —, et le bandeau qui propose de jouer à plusieurs dès que deux manettes sont branchées.*
 
 <img src="images/02-versions-java.png" width="820" alt="Nouvelle instance, étape « Version » : toutes les versions de Minecraft Java, de la plus récente à la plus ancienne.">
 
